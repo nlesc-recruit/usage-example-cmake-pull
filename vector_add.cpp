@@ -4,7 +4,6 @@
 #include "nvrtc.hpp"
 
 void vector_add() {
-
   int N = 1024;
   size_t bytesize = N * sizeof(float);
 
